@@ -11,7 +11,7 @@ vector similarity of the description of movies.
 - Then download the English model: Type this command "python -m spacy download en_core_web_md" in your terminal
 
 # How to use the program 
-After you coloned the project and installed all the packages in the requirements.txt into your vertual environment
+After you cloned the project and installed all the packages in the requirements.txt into your vertual environment
 - Open cmd and cd the the coloned project directory
 - once you are there input this "workon 'Your Vertual environment name'" then enter
 - Then run "semantic2.py"
