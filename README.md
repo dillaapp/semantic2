@@ -12,7 +12,7 @@ vector similarity of the description of movies.
 
 # How to use the program 
 After you cloned the project and installed all the packages in the requirements.txt into your vertual environment
-- Open cmd and cd the the coloned project directory
+- Open cmd and cd the the cloned project directory
 - once you are there input this "workon 'Your Vertual environment name'" then enter
 - Then run "semantic2.py"
 
